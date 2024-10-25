@@ -3,7 +3,7 @@ import requests, json
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-with open('HTML_Docs.json') as f:
+with open('HTML_info.json') as f:
     html_info = json.load(f)
 
 headers = {
@@ -19,7 +19,30 @@ def get_doc(web_url):
 
     doc = soup.prettify()
 
-    return doc
+    return soup, doc
+
+
+test_doc = get_doc(html_info["Faculty-Website"]["url"])[0]
+
+first_table = test_doc.find('table')
+
+td_tag = first_table.find_all('td')
+
+print(td_tag)
+
+link_texts = [td.text for td in td_tag]
+
+for i in link_texts:
+    print(i)
+    
+
+
+#print(test_doc.find('table', id = 'content'))
+
+
+
+
+
 
 #get_doc(html_docs["Faculty-Website"]["url"]) for faculty website
 
