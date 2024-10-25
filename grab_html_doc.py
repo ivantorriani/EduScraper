@@ -24,16 +24,23 @@ def get_doc(web_url):
 
 test_doc = get_doc(html_info["Faculty-Website"]["url"])[0]
 
+
 first_table = test_doc.find('table')
 
 td_tag = first_table.find_all('td')
 
-print(td_tag)
+td_tag_content = [td.get_text() for td in td_tag]
 
-link_texts = [td.text for td in td_tag]
-
-for i in link_texts:
+for i in td_tag_content:
     print(i)
+
+print(td_tag_content)
+
+#print(td_tag)
+
+#link_texts = [td.text for td in td_tag]
+
+#for i in link_texts:
     
 
 
