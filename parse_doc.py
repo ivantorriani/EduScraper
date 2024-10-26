@@ -35,10 +35,13 @@ test_doc = get_doc(html_info["Faculty-Website"]["url"])[0] #Gets the HTML Doc
 
 first_table = test_doc.find('table') #Finds the first table... kinda brute force but it works for now
 
-td_tag = first_table.find_all('td') #Finds all the td elements 
+td_tag = first_table.find_all('th') #Finds all the td elements
 
 extracted_content = extract_content()
 
+
+
+'''
 i = 0
 j = 0
 
@@ -48,6 +51,8 @@ payload = {
     "input": str(user_message),
     "context": str(context)
 }
+
+
 
 response = client.generate_content(
     str(payload["context"]) + str(payload["input"])
@@ -63,7 +68,7 @@ print(response)
     #while (j <= len(data)):
 
 
-'''
+
 if (j == 0):
     key = data[j]
 

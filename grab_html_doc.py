@@ -29,15 +29,19 @@ test_doc = get_doc(html_info["Faculty-Website"]["url"])[0] #Gets the HTML Doc
 
 first_table = test_doc.find('table') #Finds the first table... kinda brute force but it works for now
 
-td_tag = first_table.find_all('td') #Finds all the td elements 
+#td_tag = first_table.find_all('td') #Finds all the td elements 
+
+test = first_table.find_all('td')
+
+
 
 def extract_content():
 
-    td_tag_content = [td.get_text() for td in td_tag]
+    td_tag_content = [test.get_text() for td in test]
 
     return td_tag_content
 
-
+print(extract_content())
 
 #print(td_tag)
 
