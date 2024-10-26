@@ -1,4 +1,4 @@
-import json
+import json, requests
 import urllib3 as lib3
 from bs4 import BeautifulSoup as bs
 
@@ -16,21 +16,57 @@ agent = {
 
 # - - - - - - - - - - - - - - - 
 
-web = lib3.PoolManager()
-
 url = html_info["Faculty-Website"]["url"]
 
-r = web.request('GET', url, headers=agent)
+r = requests.get(url, headers=agent)
 
-soup = bs(r.data, 'html.parser')
+# - - - - - - - - - - - - - - -
 
-first_table = soup.find('table')
+soup = bs(r.text, "lxml")
 
-aas = first_table.find_all('a')
+table = soup.find("table")
+
+headers = table.find_all('td')
+
+rows = table.find_all("tr")
+
+print(rows)
+
+for i in rows:
+    data = i.find_all("td")
+    row = [tr.text for tr in data]
+    print(row)
 
 
-for i in aas:
-    print(i)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#web = lib3.PoolManager()
+
+#url = html_info["Faculty-Website"]["url"]
+
+#r = web.request('GET', url, headers=agent)
+
+#soup = bs(r.data, 'html.parser')
+
+#first_table = soup.find('table')
+
+#aas = first_table.find_all('a')
+
+#for i in aas:
+    #print(i)
 
 
 

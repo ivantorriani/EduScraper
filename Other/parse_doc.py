@@ -3,7 +3,7 @@ from grab_html_doc import (
     extract_content,
 )
 
-from params import context
+from Other.params import context
 
 import requests, json, os
 import google.generativeai as genai 
