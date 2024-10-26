@@ -30,12 +30,14 @@ headers = table.find_all('td')
 
 rows = table.find_all("tr")
 
-print(rows)
-
+row_list = []
 for i in rows:
     data = i.find_all("td")
     row = [tr.text for tr in data]
-    print(row)
+    row_list.append(row)
+    
+
+print(row_list[0])
 
 
 
