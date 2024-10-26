@@ -25,7 +25,8 @@ genai.configure(api_key=(HEADERS["AI-Keys"]["GeminiAI"]))
 
 client = genai.GenerativeModel("gemini-1.5-flash")
 
-cache = client.cache_context(context, ttl=3600)
+#cache = {"context": context, "ttl": 3600}
+
 
 
 # - - - - - - - - - - - - - - -
@@ -41,14 +42,18 @@ extracted_content = extract_content()
 i = 0
 j = 0
 
-user_message = extracted_content()
+user_message = extracted_content
 
-response = client.generate_text(
-    prompt = user_message,
-    cache_id = cache
+payload = {
+    "input": str(user_message),
+    "context": str(context)
+}
+
+response = client.generate_content(
+    str(payload["context"]) + str(payload["input"])
 )
 
-print(response['text'])
+print(response)
 
 
 #0 = NAME, #1 = TITLE, #2 = EMAIL, #3 = OFFICE, #4 = RESEARCH INTERESTS
@@ -73,7 +78,11 @@ if (j == 0):
 
     j += 1'''
 
-
+#new_faculty_member = { #this format is kinda nice
+    #"name": "John Doe",
+    #"department": "Mathematics",
+    #"email": "johndoe@example.com"
+#
 
 
 
