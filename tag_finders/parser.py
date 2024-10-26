@@ -26,9 +26,10 @@ soup = bs(r.data, 'html.parser')
 
 first_table = soup.find('table')
 
-hrefs = first_table.find_all('a')
+aas = first_table.find_all('a')
 
-for i in hrefs:
+
+for i in aas:
     print(i)
 
 
