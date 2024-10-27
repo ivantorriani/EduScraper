@@ -24,28 +24,40 @@
         "TITLE": "\u00a0Lecturer",
         "EMAIL": "jworkman@calpoly.edu",
         "OFFICE": "21-240",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "",
+        "HOW-TO-CONNECT": "",
+        "CONNECTION-INFORMATION": ""
     },
     "Zo\u00eb Wood": {
         "NAME": "Zo\u00eb Wood",
         "TITLE": "Professor",
         "EMAIL": "zwood@calpoly.edu",
         "OFFICE": "192-305",
-        "INTERESTS": "Computer Graphics, Rendering, Games, Visualization, Computer Science Education"
+        "INTERESTS": "Computer Graphics, Rendering, Games, Visualization, Computer Science Education",
+        "OFFICE-HOURS": "",
+        "HOW-TO-CONNECT": "",
+        "CONNECTION-INFORMATION": ""
     },
     "Jenny Wang": {
         "NAME": "Jenny Wang",
         "TITLE": "Lecturer",
         "EMAIL": "jwang96@calpoly.edu",
         "OFFICE": "14-240",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "",
+        "HOW-TO-CONNECT": "",
+        "CONNECTION-INFORMATION": ""
     },
     "Mike Wagner": {
         "NAME": "Mike Wagner",
         "TITLE": "Lecturer",
         "EMAIL": "mcwagner@calpoly.edu",
         "OFFICE": "14-240",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "Friday 2-3pm",
+        "HOW-TO-CONNECT": "Zoom",
+        "CONNECTION-INFORMATION": "https://us06web.zoom.us/j/4542032790?pwd=blhyMjRvWC9seUdab0UxWXVNeHZXZz09"
     },
     "Kurt Voelker": {
         "NAME": "Kurt Voelker",
@@ -72,7 +84,10 @@
         "TITLE": "Lecturer",
         "EMAIL": " lvarga16@calpoly.edu",
         "OFFICE": "14-236",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "",
+        "HOW-TO-CONNECT": "",
+        "CONNECTION-INFORMATION": ""
     },
     "Ka Yaw Teo": {
         "NAME": "Ka Yaw Teo",
@@ -109,7 +124,10 @@
         "TITLE": "Assistant Professor",
         "EMAIL": "dsisodia@calpoly.edu",
         "OFFICE": "14-221",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "T 12pm-1pm, W 9am-10am, R 11am-12pm",
+        "HOW-TO-CONNECT": "In Person (T,R) Zoom (T,W,R)",
+        "CONNECTION-INFORMATION": "https://calpoly.zoom.us/my/dev.sisodia"
     },
     "John Seng": {
         "NAME": "John Seng",
@@ -126,7 +144,10 @@
         "TITLE": "Assistant Professor",
         "EMAIL": "prs@calpoly.edu",
         "OFFICE": "TBD",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "",
+        "HOW-TO-CONNECT": "",
+        "CONNECTION-INFORMATION": ""
     },
     "Mugizi Rwebangira": {
         "NAME": "Mugizi Rwebangira",
@@ -173,14 +194,20 @@
         "TITLE": "Professor",
         "EMAIL": "znjp@calpoly.edu",
         "OFFICE": "14-235B",
-        "INTERESTS": "Security, Cryptographic Engineering, Computer Security Education, Storage Systems, Games and Play, Interactive Fiction, Interactive Art, Applied Cryptography"
+        "INTERESTS": "Security, Cryptographic Engineering, Computer Security Education, Storage Systems, Games and Play, Interactive Fiction, Interactive Art, Applied Cryptography",
+        "OFFICE-HOURS": "",
+        "HOW-TO-CONNECT": "",
+        "CONNECTION-INFORMATION": ""
     },
     "David Parkinson": {
         "NAME": "David Parkinson",
         "TITLE": "Lecturer",
         "EMAIL": "dsparkin@calpoly.edu",
         "OFFICE": "14- 240",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "TW 4:30-5:30",
+        "HOW-TO-CONNECT": "Zoom",
+        "CONNECTION-INFORMATION": "https://calpoly.zoom.us/j/95910049886?pwd=N0lqb0tXUjRBQ1ZXOUJxOElRRVoyQT09"
     },
     "Maria Pantoja": {
         "NAME": "Maria Pantoja",
@@ -227,7 +254,10 @@
         "TITLE": "Associate Professor",
         "EMAIL": "tmigler@calpoly.edu",
         "OFFICE": "14-226",
-        "INTERESTS": "Graph Theory, Algorithm Design, Network Analysis, CS Education, CS Outreach, CS Theory (Complexity)"
+        "INTERESTS": "Graph Theory, Algorithm Design, Network Analysis, CS Education, CS Outreach, CS Theory (Complexity)",
+        "OFFICE-HOURS": "",
+        "HOW-TO-CONNECT": "",
+        "CONNECTION-INFORMATION": ""
     },
     "Andrew Migler": {
         "NAME": "Andrew Migler",
@@ -244,7 +274,10 @@
         "TITLE": "Professor",
         "EMAIL": "clupo@calpoly.edu",
         "OFFICE": "14-102",
-        "INTERESTS": "Computer Architecture, Parallel and GPU Computing, Performance Optimization"
+        "INTERESTS": "Computer Architecture, Parallel and GPU Computing, Performance Optimization",
+        "OFFICE-HOURS": "",
+        "HOW-TO-CONNECT": "",
+        "CONNECTION-INFORMATION": ""
     },
     "Ulf Lindqvist": {
         "NAME": "Ulf Lindqvist",
@@ -261,7 +294,10 @@
         "TITLE": "Professor",
         "EMAIL": "fkurfess@calpoly.edu",
         "OFFICE": "14-203",
-        "INTERESTS": "AI, Human-Computer Interaction, Ethics and Social Justice in AI and Machine Learning"
+        "INTERESTS": "AI, Human-Computer Interaction, Ethics and Social Justice in AI and Machine Learning",
+        "OFFICE-HOURS": "TWR 3:10-4:00pm",
+        "HOW-TO-CONNECT": "In Person",
+        "CONNECTION-INFORMATION": ""
     },
     "Ken Kubiak": {
         "NAME": "Ken Kubiak",
@@ -338,7 +374,10 @@
         "TITLE": "Assistant Professor",
         "EMAIL": "ihumer@calpoly.edu",
         "OFFICE": "14-245",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "",
+        "HOW-TO-CONNECT": "",
+        "CONNECTION-INFORMATION": ""
     },
     "Silas Hsu": {
         "NAME": "Silas Hsu",
@@ -415,14 +454,20 @@
         "TITLE": "Professor",
         "EMAIL": "hghariby@calpoly.edu",
         "OFFICE": "TBD",
-        "INTERESTS": "Theoretical Computer Science"
+        "INTERESTS": "Theoretical Computer Science",
+        "OFFICE-HOURS": "",
+        "HOW-TO-CONNECT": "",
+        "CONNECTION-INFORMATION": ""
     },
     "Daniel Frishberg\u00a0": {
         "NAME": "Daniel Frishberg\u00a0",
         "TITLE": "Assistant Professor",
         "EMAIL": "dfrishbe@calpoly.edu",
         "OFFICE": "14-223",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "T 1:10-3:00pm R12:30-2:00pm",
+        "HOW-TO-CONNECT": "T: In Person, Th: Zoom, or Email",
+        "CONNECTION-INFORMATION": "Link on Canvas"
     },
     "Kris Fox": {
         "NAME": "Kris Fox",
@@ -439,21 +484,30 @@
         "TITLE": "Assistant Professor",
         "EMAIL": "dofang@calpoly.edu",
         "OFFICE": "14-210",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "TR 3:10pm-5:00pm",
+        "HOW-TO-CONNECT": "In Person",
+        "CONNECTION-INFORMATION": ""
     },
     "Sussan Einakian": {
         "NAME": "Sussan Einakian",
         "TITLE": "Lecturer",
         "EMAIL": "seinakia@calpoly.edu",
         "OFFICE": "14-202",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "",
+        "HOW-TO-CONNECT": "",
+        "CONNECTION-INFORMATION": ""
     },
     "Christian Eckhardt": {
         "NAME": "Christian Eckhardt",
         "TITLE": "Associate Professor",
         "EMAIL": "eckhardt@calpoly.edu",
         "OFFICE": "14-238D",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "",
+        "HOW-TO-CONNECT": "",
+        "CONNECTION-INFORMATION": ""
     },
     "Kirk Duran": {
         "NAME": "Kirk Duran",
@@ -490,7 +544,10 @@
         "TITLE": "Associate Professor",
         "EMAIL": "bcdasilv@calpoly.edu",
         "OFFICE": "14-223",
-        "INTERESTS": "Human and Social Aspects in SE, Tools for Software Development Productivity, SE Education, Software Developer Experience, Mining Software Repositories, Emotion and Sentiment Analysis applied to Software"
+        "INTERESTS": "Human and Social Aspects in SE, Tools for Software Development Productivity, SE Education, Software Developer Experience, Mining Software Repositories, Emotion and Sentiment Analysis applied to Software",
+        "OFFICE-HOURS": "",
+        "HOW-TO-CONNECT": "",
+        "CONNECTION-INFORMATION": ""
     },
     "John Clements": {
         "NAME": "John Clements",
@@ -567,7 +624,10 @@
         "TITLE": "Lecturer",
         "EMAIL": "\u00a0",
         "OFFICE": "TBD",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "",
+        "HOW-TO-CONNECT": "",
+        "CONNECTION-INFORMATION": ""
     },
     "Aaron Keen": {
         "NAME": "Aaron Keen",
