@@ -4,14 +4,20 @@
         "TITLE": "Lecturer",
         "EMAIL": "czielke@calpoly.edu",
         "OFFICE": "21-240",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "MW 10am-12pm",
+        "HOW-TO-CONNECT": "In Person, Email, Slack",
+        "CONNECTION-INFORMATION": "https://zielkecalpoly.slack.com"
     },
     "Eric Yocam": {
         "NAME": "Eric Yocam",
         "TITLE": "Lecturer",
         "EMAIL": "eyocam@calpoly.edu",
         "OFFICE": "14-240",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "TR 11am \u2013 12 noon",
+        "HOW-TO-CONNECT": "In Person",
+        "CONNECTION-INFORMATION": "\u00a0"
     },
     "Julie Workman": {
         "NAME": "Julie Workman",
@@ -46,14 +52,20 @@
         "TITLE": "Lecturer",
         "EMAIL": "kvoelker@calpoly.edu",
         "OFFICE": "14-202",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "TWR 12-1pm",
+        "HOW-TO-CONNECT": "Zoom",
+        "CONNECTION-INFORMATION": "https:users.csc.calpoly.edu/~kvoelker/"
     },
     "Jonathan Ventura": {
         "NAME": "Jonathan Ventura",
         "TITLE": "Associate Professor",
         "EMAIL": "jventu09@calpoly.edu",
         "OFFICE": "14-235C",
-        "INTERESTS": "Computer Vision, Machine Learning, Augmented and Virtual Reality, Remote Sensing"
+        "INTERESTS": "Computer Vision, Machine Learning, Augmented and Virtual Reality, Remote Sensing",
+        "OFFICE-HOURS": "T 3pm, R 10-11am, F 1-2pm",
+        "HOW-TO-CONNECT": "In person",
+        "CONNECTION-INFORMATION": "\u00a0"
     },
     "Luis Vargas": {
         "NAME": "Luis Vargas",
@@ -67,21 +79,30 @@
         "TITLE": "Assistant Professor",
         "EMAIL": "kteo@calpoly.edu",
         "OFFICE": "14-215",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "TR 3:30pm-5:00pm, F 11:00am-12:00pm",
+        "HOW-TO-CONNECT": "In Person",
+        "CONNECTION-INFORMATION": "\u00a0"
     },
     "Lubomir Stanchev": {
         "NAME": "Lubomir Stanchev",
         "TITLE": "Professor",
         "EMAIL": "lstanche@calpoly.edu",
         "OFFICE": "14-230",
-        "INTERESTS": "Databases, Semantic Computing, Machine Learning, Data Science"
+        "INTERESTS": "Databases, Semantic Computing, Machine Learning, Data Science",
+        "OFFICE-HOURS": "TR8-10am",
+        "HOW-TO-CONNECT": "In Person",
+        "CONNECTION-INFORMATION": "\u00a0"
     },
     "Christopher Siu": {
         "NAME": "Christopher Siu",
         "TITLE": "Lecturer",
         "EMAIL": "cesiu@calpoly.edu",
         "OFFICE": "14-236",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "MWF 9:10am-1:00pm, TR 11:10am-12:00pm, TR 4:10pm-5:10pm",
+        "HOW-TO-CONNECT": "MWF and TR morning in-person, TR afternoon on Zoom",
+        "CONNECTION-INFORMATION": "https://calpoly.zoom.us/my/cesiu"
     },
     "Devkishen Sisodia": {
         "NAME": "Devkishen Sisodia",
@@ -95,7 +116,10 @@
         "TITLE": "Professor",
         "EMAIL": "jseng@calpoly.edu",
         "OFFICE": "14-231",
-        "INTERESTS": "Robotics, Embedded Systems, Computer Architecture"
+        "INTERESTS": "Robotics, Embedded Systems, Computer Architecture",
+        "OFFICE-HOURS": "M 1p-2p (in person), T 9a-11a (Zoom), W 7p-8p (Zoom), F 2p-3p (in person)",
+        "HOW-TO-CONNECT": "see above",
+        "CONNECTION-INFORMATION": "https://calpoly.zoom.us/j/340489650?pwd=ZzJrakhFNkdLODVtK1dHdzFSMU9lQT09"
     },
     "Paul Schmitt": {
         "NAME": "Paul Schmitt",
@@ -109,28 +133,40 @@
         "TITLE": "Assistant Professor",
         "EMAIL": "mrwebang@calpoly.edu",
         "OFFICE": "14-218",
-        "INTERESTS": "Machine Learning, AI, Computational Neuroscience"
+        "INTERESTS": "Machine Learning, AI, Computational Neuroscience",
+        "OFFICE-HOURS": "MW 12pm-2pm",
+        "HOW-TO-CONNECT": "Email",
+        "CONNECTION-INFORMATION": "mrwebang@calpoly.edu"
     },
     "Vanessa Rivera": {
         "NAME": "Vanessa Rivera",
         "TITLE": "Lecturer",
         "EMAIL": "vcrivera@calpoly.edu",
         "OFFICE": "14-202",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "T 2pm-4pm (Zoom), R 12pm-2pm",
+        "HOW-TO-CONNECT": "T Zoom, R In Person",
+        "CONNECTION-INFORMATION": "https://calpoly.zoom.us/j/84738737093"
     },
     "Anita Rathi": {
         "NAME": "Anita Rathi",
         "TITLE": "Lecturer",
         "EMAIL": "anrathi@calpoly.edu",
         "OFFICE": "092-M-C104",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "TR \u2013 11:15 am to 1:15 pm",
+        "HOW-TO-CONNECT": "In Person",
+        "CONNECTION-INFORMATION": "\u00a0"
     },
     "Lucas Pierce": {
         "NAME": "Lucas Pierce",
         "TITLE": "Lecturer",
         "EMAIL": "lupierce@calpoly.edu",
         "OFFICE": "14-240",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "T 2pm-3:30pm, R 12pm-1:30pm",
+        "HOW-TO-CONNECT": "Teams",
+        "CONNECTION-INFORMATION": "https://calendly.com/lupierce/office-hours?month=2024-09"
     },
     "Zachary N J Peterson": {
         "NAME": "Zachary N J Peterson",
@@ -151,28 +187,40 @@
         "TITLE": "Associate Professor",
         "EMAIL": "mpanto01@calpoly.edu",
         "OFFICE": "14-211",
-        "INTERESTS": "High Performance Computing, Parallel Programming (OpenMP and GPU), Distributed Systems (MPI and goLang), Reliability in Distributed Systems, Acceleration of Deep Learning"
+        "INTERESTS": "High Performance Computing, Parallel Programming (OpenMP and GPU), Distributed Systems (MPI and goLang), Reliability in Distributed Systems, Acceleration of Deep Learning",
+        "OFFICE-HOURS": "MW 3-4pm W10am-12pm and by appointment",
+        "HOW-TO-CONNECT": "email",
+        "CONNECTION-INFORMATION": "\u00a0"
     },
     "Phillip Nico": {
         "NAME": "Phillip Nico",
         "TITLE": "Professor",
         "EMAIL": "pnico@calpoly.edu",
         "OFFICE": "14-205",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "MWF 10:19-11, T 12:10-1:00",
+        "HOW-TO-CONNECT": "In person\u00a0",
+        "CONNECTION-INFORMATION": "\u00a0"
     },
     "Sumona Mukhopadhyay": {
         "NAME": "Sumona Mukhopadhyay",
         "TITLE": "Assistant Professor",
         "EMAIL": "mukhopad@calpoly.edu",
         "OFFICE": "14-217",
-        "INTERESTS": "Data Science, Machine Learning, Object Detection, Open CV"
+        "INTERESTS": "Data Science, Machine Learning, Object Detection, Open CV",
+        "OFFICE-HOURS": "MW 10am-12pm",
+        "HOW-TO-CONNECT": "In-Person(Wednesday) and Zoom (Monday)",
+        "CONNECTION-INFORMATION": "https://calpoly.zoom.us/j/8361192953"
     },
     "Joydeep Mukherjee": {
         "NAME": "Joydeep Mukherjee",
         "TITLE": "Assistant Professor",
         "EMAIL": "jmukherj@calpoly.edu",
         "OFFICE": "14-219",
-        "INTERESTS": "Software Performance Engineering, Cloud Computing, Internet of Things, Machine Learning, DevOps"
+        "INTERESTS": "Software Performance Engineering, Cloud Computing, Internet of Things, Machine Learning, DevOps",
+        "OFFICE-HOURS": "MW, 10am-12pm",
+        "HOW-TO-CONNECT": "In Person",
+        "CONNECTION-INFORMATION": "\u00a0"
     },
     "Theresa Migler": {
         "NAME": "Theresa Migler",
@@ -186,7 +234,10 @@
         "TITLE": "Lecturer",
         "EMAIL": "amigler@calpoly.edu",
         "OFFICE": "Virtual",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "Mon 8:10-9am; Tues 8:40-9:30am, 11:10-Noon; Thurs 11:10-Noon",
+        "HOW-TO-CONNECT": "Zoom (waiting room enabled)",
+        "CONNECTION-INFORMATION": "https://calpoly.zoom.us/j/85891089587"
     },
     "Chris\u00a0Lupo": {
         "NAME": "Chris\u00a0Lupo",
@@ -200,7 +251,10 @@
         "TITLE": "Lecturer",
         "EMAIL": "ulindqvi@calpoly.edu",
         "OFFICE": "14-240",
-        "INTERESTS": "Security, Critical Infrastructures, Applied Cryptography"
+        "INTERESTS": "Security, Critical Infrastructures, Applied Cryptography",
+        "OFFICE-HOURS": "TR 5pm-6pm",
+        "HOW-TO-CONNECT": "Email, In Person",
+        "CONNECTION-INFORMATION": "\u00a0"
     },
     "Franz Kurfess": {
         "NAME": "Franz Kurfess",
@@ -214,49 +268,70 @@
         "TITLE": "Lecturer",
         "EMAIL": "kubiak@calpoly.edu",
         "OFFICE": "14-228",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "Tu 2-4pm; Th 12-2pm",
+        "HOW-TO-CONNECT": "In-person or Zoom",
+        "CONNECTION-INFORMATION": "https://calendly.com/kubiak-calpoly/office-hours"
     },
     "BJ Klingenberg": {
         "NAME": "BJ Klingenberg",
         "TITLE": "Lecturer",
         "EMAIL": "bklingen@calpoly.edu",
         "OFFICE": "14-228",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "W 9:30am \u2013 10am. 12:30 \u2013 2pm.",
+        "HOW-TO-CONNECT": "In Person, Zoom",
+        "CONNECTION-INFORMATION": "https://calpoly.zoom.us/my/bklingen"
     },
     "Foaad Khosmood": {
         "NAME": "Foaad Khosmood",
         "TITLE": "Professor",
         "EMAIL": "foaad@calpoly.edu",
         "OFFICE": "14-204",
-        "INTERESTS": "Artificial Intelligence, Natural Language Processing, Video Games, Data Science, Digital Government"
+        "INTERESTS": "Artificial Intelligence, Natural Language Processing, Video Games, Data Science, Digital Government",
+        "OFFICE-HOURS": "MTWF 4-5PM, F12-1PM",
+        "HOW-TO-CONNECT": "In person",
+        "CONNECTION-INFORMATION": "\u00a0"
     },
     "Fahim Khan": {
         "NAME": "Fahim Khan",
         "TITLE": "Assistant Professor",
         "EMAIL": "fkhan19@calpoly.edu",
         "OFFICE": "14-216",
-        "INTERESTS": "Computer Vision, Applied Machine Learning, Computer Graphics, Data Visualization, Citizen Science"
+        "INTERESTS": "Computer Vision, Applied Machine Learning, Computer Graphics, Data Visualization, Citizen Science",
+        "OFFICE-HOURS": "T: 3:30-4:30 PM, W: 1-3 PM, R: 3:30-4:30 PM",
+        "HOW-TO-CONNECT": "In Person, Zoom by appointment",
+        "CONNECTION-INFORMATION": "\u00a0"
     },
     "Ayaan Kazerouni": {
         "NAME": "Ayaan Kazerouni",
         "TITLE": "Assistant Professor",
         "EMAIL": "ayaank@calpoly.edu",
         "OFFICE": "14-229",
-        "INTERESTS": "Computing Education, Software Engineering, Software Testing"
+        "INTERESTS": "Computing Education, Software Engineering, Software Testing",
+        "OFFICE-HOURS": "M 2\u20133pm, T 9:30\u201311am, R 1\u20132:30pm",
+        "HOW-TO-CONNECT": "In Person (Zoom may be available if requested)",
+        "CONNECTION-INFORMATION": "\u00a0"
     },
     "Paris Kalathas": {
         "NAME": "Paris Kalathas",
         "TITLE": "Assistant Professor",
         "EMAIL": "pkalatha@calpoly.edu",
         "OFFICE": "14-213",
-        "INTERESTS": "CS Education, CS+X Curricula, In-service & Pre-service K-12 Teacher Preparation, Educational Tools, Interdisciplinary-Technological Pedagogical Content Knowledge (I-TPACK) Development"
+        "INTERESTS": "CS Education, CS+X Curricula, In-service & Pre-service K-12 Teacher Preparation, Educational Tools, Interdisciplinary-Technological Pedagogical Content Knowledge (I-TPACK) Development",
+        "OFFICE-HOURS": "M 9am-10am, M 2pm-3pm, R 10am-11am",
+        "HOW-TO-CONNECT": "In person except M 2pm-3pm is on ZOOM",
+        "CONNECTION-INFORMATION": "https://calpoly.zoom.us/j/85319841341"
     },
     "Brian Jones": {
         "NAME": "Brian Jones",
         "TITLE": "Lecturer",
         "EMAIL": "btjones@calpoly.edu",
         "OFFICE": "14-236",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "M 9:10\u201310 am, T 11:10 am\u20131 pm, R 11:10\u201312 am and 1:10\u20133 pm, F 8:10\u201310 am",
+        "HOW-TO-CONNECT": "In Person",
+        "CONNECTION-INFORMATION": "\u00a0"
     },
     "Irene Humer": {
         "NAME": "Irene Humer",
@@ -270,49 +345,70 @@
         "TITLE": "Assistant Professor",
         "EMAIL": " sihsu@calpoly.edu ",
         "OFFICE": "14-206",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "M 10:10 \u2013 11:00 AM, W 3:10 \u2013 4:00 PM, F 3:10 \u2013 4:50 PM",
+        "HOW-TO-CONNECT": "In Person",
+        "CONNECTION-INFORMATION": "\u00a0"
     },
     "Borislav Hristov": {
         "NAME": "Borislav Hristov",
         "TITLE": "Assistant Professor",
         "EMAIL": "bhristov@calpoly.edu",
         "OFFICE": "14-226",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "W 4pm-6pm, R 10am -12pm",
+        "HOW-TO-CONNECT": "In person R, zoom W",
+        "CONNECTION-INFORMATION": "https://us05web.zoom.us/j/2994434698?pwd=WEtHK0llaWZmTWtmTnhPUlVqRmlGUT09"
     },
     "Michael Haungs": {
         "NAME": "Michael Haungs",
         "TITLE": "Professor",
         "EMAIL": "mhaungs@calpoly.edu",
         "OFFICE": "181-221",
-        "INTERESTS": "Game Design, Game Implementation, User Centered Design, User Experience, Mobile Apps, Web Apps, CSC Education, K12 STEAM Outreach"
+        "INTERESTS": "Game Design, Game Implementation, User Centered Design, User Experience, Mobile Apps, Web Apps, CSC Education, K12 STEAM Outreach",
+        "OFFICE-HOURS": "MW 2:10-4:00pm",
+        "HOW-TO-CONNECT": "In person or via Zoom",
+        "CONNECTION-INFORMATION": "https://calpoly.zoom.us/my/mhaungs"
     },
     "Paul Hatalsky": {
         "NAME": "Paul Hatalsky",
         "TITLE": "Lecturer",
         "EMAIL": "phatalsk@calpoly.edu",
         "OFFICE": "21-240",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "MWF 12-1PM",
+        "HOW-TO-CONNECT": "In Person",
+        "CONNECTION-INFORMATION": "\u00a0"
     },
     "Bret Hartman": {
         "NAME": "Bret Hartman",
         "TITLE": "Lecturer",
         "EMAIL": "bahartma@calpoly.edu",
         "OFFICE": "14-240",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "R 11am-12pm (MWF flexible on zoom)",
+        "HOW-TO-CONNECT": "In person or zoom",
+        "CONNECTION-INFORMATION": "\u00a0"
     },
     "April Grow": {
         "NAME": "April Grow",
         "TITLE": "Assistant Professor",
         "EMAIL": "amgrow@calpoly.edu",
         "OFFICE": "\u00a014-209",
-        "INTERESTS": "Games, Physical Crafts, Procedural Generation"
+        "INTERESTS": "Games, Physical Crafts, Procedural Generation",
+        "OFFICE-HOURS": "MTWF 1:30-3",
+        "HOW-TO-CONNECT": "In-person or Zoom",
+        "CONNECTION-INFORMATION": "https://calpoly.zoom.us/my/amgrow"
     },
     "Javier Gonzalez-Sanchez": {
         "NAME": "Javier Gonzalez-Sanchez",
         "TITLE": "Assistant Professor",
         "EMAIL": "javiergs@calpoly.edu",
         "OFFICE": "\u00a014-227",
-        "INTERESTS": "Software Engineering, Intelligent Systems Engineering, Software Product Lines, Human-Computer Interaction, Emotion AI (Affective Computing), Machine Learning, Augmented Reality, CS Education"
+        "INTERESTS": "Software Engineering, Intelligent Systems Engineering, Software Product Lines, Human-Computer Interaction, Emotion AI (Affective Computing), Machine Learning, Augmented Reality, CS Education",
+        "OFFICE-HOURS": "MTWR 3 pm-4 pm",
+        "HOW-TO-CONNECT": "In Person",
+        "CONNECTION-INFORMATION": "\u00a0"
     },
     "Hasmik Gharibyan": {
         "NAME": "Hasmik Gharibyan",
@@ -333,7 +429,10 @@
         "TITLE": "Lecturer",
         "EMAIL": "jfox@calpoly.edu",
         "OFFICE": "14-240",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "Th \u2013 1pm \u2013 2pm",
+        "HOW-TO-CONNECT": "Zoom, In person by appointment",
+        "CONNECTION-INFORMATION": "Canvas"
     },
     "Phoenix (Dongfeng) Fang": {
         "NAME": "Phoenix (Dongfeng) Fang",
@@ -361,21 +460,30 @@
         "TITLE": "Lecturer",
         "EMAIL": "kduran02@calpoly.edu",
         "OFFICE": "14-236",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "MW 11-12 (In Person) , TTH 12-1 (Zoom)",
+        "HOW-TO-CONNECT": "MW 11-12 (In Person) , TTH 12-1 (Zoom)",
+        "CONNECTION-INFORMATION": "https://calpoly.zoom.us/j/83671934345"
     },
     "Alex Dekhtyar": {
         "NAME": "Alex Dekhtyar",
         "TITLE": "Professor",
         "EMAIL": "dekhtyar@calpoly.edu",
         "OFFICE": "14-212",
-        "INTERESTS": "Databases, Machine Learning, Data Science, Software Engineering"
+        "INTERESTS": "Databases, Machine Learning, Data Science, Software Engineering",
+        "OFFICE-HOURS": "TR 5:00 \u2013 6:00pmW 9:10 \u2013 11:00am",
+        "HOW-TO-CONNECT": "in person, slack, Zoom is available by request.",
+        "CONNECTION-INFORMATION": "\u00a0"
     },
     "Bruce DeBruhl": {
         "NAME": "Bruce DeBruhl",
         "TITLE": "Associate Professor",
         "EMAIL": "bdebruhl@calpoly.edu",
         "OFFICE": "14-210",
-        "INTERESTS": "Security and Privacy, Automotive Security, Wireless Security, Software Security"
+        "INTERESTS": "Security and Privacy, Automotive Security, Wireless Security, Software Security",
+        "OFFICE-HOURS": "MW 9:10-10:00, R 11:10-12.",
+        "HOW-TO-CONNECT": "In person.",
+        "CONNECTION-INFORMATION": "\u00a0"
     },
     "Bruno da Silva": {
         "NAME": "Bruno da Silva",
@@ -389,49 +497,70 @@
         "TITLE": "Professor",
         "EMAIL": "clements@calpoly.edu",
         "OFFICE": "14-208",
-        "INTERESTS": "Programming Languages, Notional Machines for Computing Education, Continuation Marks, Functional Languages, Compilers, Music, CS Education"
+        "INTERESTS": "Programming Languages, Notional Machines for Computing Education, Continuation Marks, Functional Languages, Compilers, Music, CS Education",
+        "OFFICE-HOURS": "M 1pm-2pm, Tu 2pm-3pm, Th 1pm-2pm, F 1pm-2pm",
+        "HOW-TO-CONNECT": "in person",
+        "CONNECTION-INFORMATION": "\u00a0"
     },
     "Rodrigo Canaan": {
         "NAME": "Rodrigo Canaan",
         "TITLE": "Assistant Professor",
         "EMAIL": "rcanaan@calpoly.edu",
         "OFFICE": "\u00a014-207",
-        "INTERESTS": "AI, Games, Co-Creativity, Evolutionary Computing, Quality-Diversity Algorithms, Machine Learning, Reinforcement Learning"
+        "INTERESTS": "AI, Games, Co-Creativity, Evolutionary Computing, Quality-Diversity Algorithms, Machine Learning, Reinforcement Learning",
+        "OFFICE-HOURS": "TF 2:10-4pm",
+        "HOW-TO-CONNECT": "In person or Zoom",
+        "CONNECTION-INFORMATION": "https://calpoly.zoom.us/my/rcanaan"
     },
     "Bruce Burton": {
         "NAME": "Bruce Burton",
         "TITLE": "Lecturer",
         "EMAIL": "baburton@calpoly.edu",
         "OFFICE": "\u00a0TBD",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "R 2-3pm",
+        "HOW-TO-CONNECT": "Generally in person, by appointment. Other modes possible",
+        "CONNECTION-INFORMATION": "\u00a0"
     },
     "John Bellardo": {
         "NAME": "John Bellardo",
         "TITLE": "Professor",
         "EMAIL": "bellardo@calpoly.edu",
         "OFFICE": "14-235D",
-        "INTERESTS": "Satellites, Embedded Systems, Networks, Operating Systems, Distributed Systems, Security"
+        "INTERESTS": "Satellites, Embedded Systems, Networks, Operating Systems, Distributed Systems, Security",
+        "OFFICE-HOURS": "TTh 0900 \u2013 0930, 1510 \u2013 1600; W 1210 \u2013 1300",
+        "HOW-TO-CONNECT": "In Person",
+        "CONNECTION-INFORMATION": "\u00a0"
     },
     "Stephen Beard": {
         "NAME": "Stephen Beard",
         "TITLE": "Assistant Professor",
         "EMAIL": "srbeard@calpoly.edu",
         "OFFICE": "14-214",
-        "INTERESTS": "Security, Architecture, Compilers, Language, Performance"
+        "INTERESTS": "Security, Architecture, Compilers, Language, Performance",
+        "OFFICE-HOURS": "Monday 4:10 pm to 5 pmTuesday 9:10 am to 11 amThursday 1:10 pm to 2 pm",
+        "HOW-TO-CONNECT": "in person",
+        "CONNECTION-INFORMATION": "\u00a0"
     },
     "Hisham Assal": {
         "NAME": "Hisham Assal",
         "TITLE": "Lecturer",
         "EMAIL": "hhassal@calpoly.edu",
         "OFFICE": "14-240",
-        "INTERESTS": "\u00a0"
+        "INTERESTS": "\u00a0",
+        "OFFICE-HOURS": "MW 10am-11am",
+        "HOW-TO-CONNECT": "In person",
+        "CONNECTION-INFORMATION": "\u00a0"
     },
     "Paul Anderson": {
         "NAME": "Paul Anderson",
         "TITLE": "Professor",
         "EMAIL": "pander14@calpoly.edu",
         "OFFICE": "14-222",
-        "INTERESTS": "AI, machine learning, bioinformatics, data science, genomics, proteomics, metabolomics, ranking algorithms, and fairness."
+        "INTERESTS": "AI, machine learning, bioinformatics, data science, genomics, proteomics, metabolomics, ranking algorithms, and fairness.",
+        "OFFICE-HOURS": "MW 1-2:30 PM",
+        "HOW-TO-CONNECT": "In person\u00a0",
+        "CONNECTION-INFORMATION": "\u00a0"
     },
     "Laila Abdelhafeez": {
         "NAME": "Laila Abdelhafeez",
@@ -445,6 +574,9 @@
         "TITLE": "Department Chair",
         "EMAIL": "akeen@calpoly.edu",
         "OFFICE": "14-254",
-        "INTERESTS": "Programming Languages, Compilers, Static Analysis, CS Education"
+        "INTERESTS": "Programming Languages, Compilers, Static Analysis, CS Education",
+        "OFFICE-HOURS": "M: 2-3pm, T: 2-3pm, W: 11-12pm",
+        "HOW-TO-CONNECT": "In Person",
+        "CONNECTION-INFORMATION": "\u00a0"
     }
 }

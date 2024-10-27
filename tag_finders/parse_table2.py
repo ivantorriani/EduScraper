@@ -52,25 +52,24 @@ def organize_rows():
 rows = organize_rows()
 
 
+
+
+
 last_name=rows[2][0].split(", ")[0]
 first_name=rows[2][0].split(", ")[1]
 
-for i in fi:
-    if (str(first_name + " " + last_name)) == i:
-        print(i)
-        print(str(first_name + " " + last_name))
-
-
-
-
-
-
+print(fi.keys())
 
 def append_please():
-    fi = {}
+
+    
+    with open('Faculty_Information.json') as f:
+        fi = json.load(f)
 
     j = len(rows) - 1
+
     while j >= 0:
+
 
         o_t_spinner.start()
 
@@ -83,19 +82,24 @@ def append_please():
             last_name=NAME.split(", ")[0]
             first_name=NAME.split(", ")[1]
         except IndexError:
+            j -= 1
             continue
 
-        key = str(first_name + " " + last_name)
+        key = f"{first_name} {last_name}"
 
-        for names in fi:
-            if names == key:
-                entry = {
-                    "OFFICE-HOURS": str(OFFICE_HOURS),
-                    "HOW-TO-CONNECT": str(HOW_TO_CONNECT),
-                    "CONNECTION-INFORMATION": str(CONNECTION_INFORMATION)
-                }
+        key_list = list(fi.keys())
+        
 
-                fi[key].update(entry)
+        if key in key_list:
+            entry = {
+                "OFFICE-HOURS": str(OFFICE_HOURS),
+                "HOW-TO-CONNECT": str(HOW_TO_CONNECT),
+                "CONNECTION-INFORMATION": str(CONNECTION_INFORMATION)
+            }
+
+            fi[key].update(entry) 
+        else:
+            print(key)           
 
         j -= 1
 
