@@ -60,7 +60,7 @@ first_name=rows[3][0].split(", ")[1]
 for instructor_name in fi:
     print(instructor_name)
 
-'''def append():
+def append():
     fi = {}
 
     j = len(rows) - 1
@@ -75,7 +75,25 @@ for instructor_name in fi:
 
         key = str(first_name + " " + last_name)
 
-        '''
+        for instructor_names in fi:
+            if str(instructor_names) == str(key):
+                entry = {
+                    "OFFICE-HOURS": str(OFFICE_HOURS),
+                    "HOW-TO-CONNECT": str(HOW_TO_CONNECT),
+                    "CONNECTION-INFORMATION": str(CONNECTION_INFORMATION)
+                }
+
+                fi[str(instructor_names)].update(entry)
+        j -= 1
+    
+    with open('Faculty_Information.json', 'w') as file:
+        json.dump(fi, file, indent=4)
+
+
+append()
+
+
+        
 
 
 
