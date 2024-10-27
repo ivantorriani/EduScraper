@@ -446,12 +446,5 @@
         "EMAIL": "akeen@calpoly.edu",
         "OFFICE": "14-254",
         "INTERESTS": "Programming Languages, Compilers, Static Analysis, CS Education"
-    },
-    "NAME": {
-        "NAME": "NAME",
-        "TITLE": "Title",
-        "EMAIL": "EMAIL",
-        "OFFICE": "OFFICE",
-        "INTERESTS": "RESEARCH INTERESTS"
     }
 }

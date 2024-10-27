@@ -56,7 +56,7 @@ def work():
     fi = {}  
 
     j = len(rows) - 1
-    while j >= 0:
+    while j > 0:
         NAME = rows[j][0]
         TITLE = rows[j][1]
         EMAIL = rows[j][2]
