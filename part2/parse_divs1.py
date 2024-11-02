@@ -17,7 +17,6 @@ agent = {
 
 #courseNumber | units | courseTitle | Prerequisite | summary
 
-temp_holder = []
 course_numbers = []
 course_num_final = []
 course_units = []
@@ -42,6 +41,7 @@ course_blocks = block.find_all('div', class_ = 'courseblock')
 
 
 def get_coursenum():
+    temp_holder = []
     for i in course_blocks:
         number_slot = i.find('p', class_ = 'courseblocktitle')
         temp_holder.append(number_slot.get_text())
@@ -53,6 +53,7 @@ def get_coursenum():
     return course_numbers
 
 def get_course_title():
+    temp_holder = []
     for i in course_blocks:
         title_slot = i.find('p', class_ = 'courseblocktitle')
         temp_holder.append(title_slot.get_text())
@@ -69,8 +70,10 @@ def get_course_units():
         unit_slot = i.find('span', class_ = "courseblockhours")
         units = unit_slot.get_text().split("\n")[0]
         course_units.append(units)
+    return course_units
     
 def get_course_prereq():
+    temp_holder = []
     for i in course_blocks:
         prereq_area = i.find('div', class_ = 'noindent courseextendedwrap')
         prereq_slot = prereq_area.find_all('p')
@@ -78,16 +81,16 @@ def get_course_prereq():
             if j.get('class') == None:
                 temp_holder.append(j)
     for i in temp_holder:
-        print(i.get_text())
+        prereqs = (i.get_text())
+        prerequisite.append(prereqs)
 
+    return prerequisite
 
-            
 def get_course_description():
     for i in course_blocks:
         desc_area = i.find('div', class_ = 'courseblockdesc')
         desc_slot = desc_area.find('p')
         summary.append(desc_slot.get_text())
+    return summary
 
-
-get_course_prereq()
 
