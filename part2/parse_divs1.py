@@ -93,4 +93,3 @@ def get_course_description():
         summary.append(desc_slot.get_text())
     return summary
 
-

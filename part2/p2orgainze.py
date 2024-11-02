@@ -30,7 +30,7 @@ def organize():
     global i
     while (i < len(course_numbers)):
         COURSE_NUM = course_numbers[i]
-        UNITS = course_numbers[i]
+        UNITS = course_units[i]
         COURSE_TITLE = course_titles[i]
         COURSE_PREREQ = course_prereq[i]
         COURSE_DESC = course_description[i]
