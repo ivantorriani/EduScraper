@@ -1,5 +1,8 @@
 {
     "Faculty-Website": {
         "url": "https://csc.calpoly.edu/faculty/"
+    },
+    "Courses-Website":{
+        "url": "https://catalog.calpoly.edu/coursesaz/csc/"
     }
 }
