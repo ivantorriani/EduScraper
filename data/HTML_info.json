@@ -4,5 +4,8 @@
     },
     "Courses-Website":{
         "url": "https://catalog.calpoly.edu/coursesaz/csc/"
+    },
+    "Clubs-Website":{
+        "url": "https://now.calpoly.edu/organizations"
     }
 }

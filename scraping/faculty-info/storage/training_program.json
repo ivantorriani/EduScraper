@@ -1,0 +1,8 @@
+{
+    "NER-Training-Program":{
+        "Correct-Example": "Correct Example: Input = Dave Smith. Output = NAME:Dave-Smith",
+        "Correct-Example2": "Correct Example: Input = Assistant Professor. Output = TITLE:Assistant-Professor",
+        "Correct-Example3": "Correct Example: Input = Cybersecurity, Machine Learning. Output = RESEARCH-INTEREST:Cybersecurity-Machine-Learning"
+        
+    }
+}
