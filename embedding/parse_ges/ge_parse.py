@@ -45,16 +45,35 @@ def get_ges_by_id():
     
 id_list = get_ges_by_id()
 
+print(len(id_list))
+print(len(no_desc_ge))
+
+
 def match():
 
     for course in courses:
         i = 0
         while (i < len(id_list)):
             if course["id"] == id_list[i]:
-                des_ids.append(all_ge_ids[i])
-                descriptions.append(course["desc"])
-            i += 1
-    
-    print(descriptions)
+                #des_ids.append(all_ge_ids[i])
+                #descriptions.append(course["desc"])
+                entry = {
+                    str(course["displayName"]): { 
+                        "ID": str(course["id"]),
+                        "UNITS": str(course["units"]),
+                        "DESC": str(course["desc"])
+                    }
+                }
 
-match()   
+                ge.update(entry)
+
+            i += 1
+
+    with open(ge_path, 'w') as file:
+        json.dump(ge, file, indent = 4)
+
+match()
+
+
+print(len(ge))
+print(len(no_desc_ge))
